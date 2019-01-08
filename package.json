@@ -1,0 +1,23 @@
+{
+    "name": "eslint-config-klickly",
+    "description": "Klickly's ESLint config, following our styleguide",
+    "main": "index.js",
+    "version": "1.0.0",
+    "author": "Klickly Inc",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/klickly/eslint-config-klickly.git"
+    },
+    "keywords": [
+        "eslint",
+        "eslintconfig"
+    ],
+    "dependencies": {
+        "eslint": "^5.12.0",
+        "babel-eslint": "^10.0.1"
+    },
+    "peerDependencies": {
+        "eslint": ">= 5.12"
+    }
+}
