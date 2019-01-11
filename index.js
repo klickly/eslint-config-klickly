@@ -16,7 +16,6 @@ module.exports = {
         "beforeEach": true
     },
     "rules": {
-        "no-await-in-loop": "error",
         "no-async-promise-executor": "error",
         "no-extra-parens": ["error", "all", { "returnAssign": false, "nestedBinaryExpressions": false }],
         "array-callback-return": "error",
@@ -70,4 +69,4 @@ module.exports = {
         "semi": ["error", "always"],
         "semi-spacing": "error"
     }
-}
+};
