@@ -20,7 +20,6 @@ module.exports = {
         "no-extra-parens": ["error", "all", { "returnAssign": false, "nestedBinaryExpressions": false }],
         "array-callback-return": "error",
         "complexity": ["error", 30],
-        "consistent-return": "warn",
         "default-case": "error",
         "no-else-return": "error",
         "no-empty-function": "error",
