@@ -50,7 +50,6 @@ module.exports = {
         "no-buffer-constructor": "error",
         "no-mixed-requires": "error",
         "no-new-require": "error",
-        "no-process-env": "warn",
 
         "comma-style": "error",
         "array-bracket-spacing": ["error", "always"],
