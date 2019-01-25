@@ -37,6 +37,7 @@ module.exports = {
         "no-new": "error",
         "no-proto": "error",
         "no-return-assign": "error",
+        "no-return-await": "error",
         "no-useless-call": "error",
         "no-useless-catch": "error",
         "no-useless-concat": "error",
