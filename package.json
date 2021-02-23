@@ -2,7 +2,7 @@
     "name": "eslint-config-klickly",
     "description": "Klickly's ESLint config, following our styleguide",
     "main": "index.js",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author": "Klickly Inc",
     "license": "MIT",
     "repository": {
